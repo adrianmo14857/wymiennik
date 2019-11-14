@@ -7,7 +7,7 @@ int main() {
 	double Tzm = 70 - 2.5 * (To - 6);
 	double Fzco = 41;
 	double Tpco = 45;
-
+	//test github
 	double A1 = (-Fzm * ro * cw - kw) / (Mm * cwym);
 	double B1 = -kw / (Mm * cwym);
 	double WW1 = ((Fzm * ro * cw) / (Mm * cwym)) * Tzm;
